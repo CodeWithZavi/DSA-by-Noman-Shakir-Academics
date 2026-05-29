@@ -37,6 +37,10 @@ DSA-Academic/
 - Adaptive Recommendation Engine project using JavaFX, Maven, Spotify API concepts, and custom DSA structures
 - Python encryption demo using local MongoDB
 
+## Featured Project: Huffman Coding Compression Tool
+
+The repository includes a Java implementation of Huffman coding for lossless text compression, covering frequency analysis, tree construction, and binary code generation. See the implementation in [DataStructureAndAlgorithms/Algorithms/HufmanCoding/HuffmanCoding.java](DataStructureAndAlgorithms/Algorithms/HufmanCoding/HuffmanCoding.java).
+
 ## Requirements
 
 - Java JDK 21 or newer for the Java examples and JavaFX project
