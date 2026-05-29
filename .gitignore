@@ -1,0 +1,23 @@
+# Build outputs
+target/
+out/
+*.class
+*.jar
+
+# IDE and local tooling
+.vscode/
+.idea/
+.local-maven/
+*.log
+
+# Local/package artifacts
+*.vsix
+recorded_audio.wav
+
+# Local encrypted/demo data
+*.enc
+
+# Secrets and local environment
+.env
+.env.*
+!.env.example
